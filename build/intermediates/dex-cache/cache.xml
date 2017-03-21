@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7567546ca0e3df6f299a937e254bb362152060ec">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a5a81783b490fac03783c9d245efdb897eace38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_f2c415e180d71e0b90448e9c9821121c0aa30d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5363e60b706f0155c664b4330b983f1ae125e5de">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_43b85eaf0c98ae87ed32c80ffded3e8732f28150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_cbf058c46509fa618114da2debebf6b16ac5a9c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_a77e4328aa4d460cafce633793613d2d1f8610ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_2b40789c2daf3be0a375ec7b4237140bdc7ffdcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/exploded-aar/com.ramotion.foldingcell/folding-cell/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48dbdfcaaa731f11ff6a9fcbee3cc0c96feded6e">
+        <dex dex="/Users/marnokulmala/Downloads/WeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ramotion.foldingcell-folding-cell-1.1.0_b57777a907dda51bd8ffc97104915aa7ed7b7a56/classes.dex" />
+    </item>
+
+</items>

@@ -1,5 +1,5 @@
 # WeatherApp
-Simple weather app
+Simple weather app for android
 
 Uses OpenWeatherMap for mapping API. Needs application keys from OpenWeatherMap in order to work.
 
